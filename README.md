@@ -24,6 +24,7 @@ The main objective of this project is to design a **user-friendly food delivery 
 <img width="440" height="956" alt="dishes 1" src="https://github.com/user-attachments/assets/15f087f5-267e-4685-9554-f01a6290b78d" />
 
 4.dishes 2
+
 <img width="440" height="956" alt="dishes 2" src="https://github.com/user-attachments/assets/054e2ac4-b9b1-4eb0-82c4-92e64536e162" />
 
 5.dishes 3
