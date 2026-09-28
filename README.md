@@ -1,3 +1,11 @@
+Design link:
+https://www.figma.com/design/QztLNKhQy5F3JK2IwtK0bk/Untitled?node-id=0-1&p=f&t=YqJdIeKZIVhtnAAn-0
+
+Prototype link:
+https://www.figma.com/proto/QztLNKhQy5F3JK2IwtK0bk/Untitled?node-id=0-1&t=YqJdIeKZIVhtnAAn-1
+
+
+
 # food-delivery-app
 # 🍔 Food Delivery App UI Design
 
